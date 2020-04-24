@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ProjeckKelasC_2</string>
+    <string name="aktivity_hitung">Aktivity Hitung</string>
+    <string name="selamat_datang">Selamat Datang</string>
+    <string name="panjang">Panjang</string>
+    <string name="lebar">Lebar</string>
+    <string name="tinggi">Tinggi</string>
+    <string name="hitung">Hitung</string>
+</resources>
